@@ -6,6 +6,6 @@ int main()
   a=n/100;
   b=n%10;
   printf("%d",a+b);
-  //Type your code here
+  //It returns the remainder sum of a number
   return 0;
 }
